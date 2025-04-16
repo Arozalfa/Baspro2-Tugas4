@@ -9,25 +9,34 @@ Kode ini bertujuan menghitung hasil perkalian dua matriks berukuran 5x5:  A  dan
 **1. Matriks Input**
 - **Matriks A**: 
   Sebuah matriks berukuran 5x5 dengan elemen bernilai berturut-turut dari 1 hingga 25, diatur dalam baris dan kolom. Contohnya:
-  \[
+  [
   A =
-  \1 & 2 & 3 & 4 & 5 \\
-  6 & 7 & 8 & 9 & 10 \\
-  11 & 12 & 13 & 14 & 15 \\
-  16 & 17 & 18 & 19 & 20 \\
-  21 & 22 & 23 & 24 & 25
-  \\]
+  1 & 2 & 3 & 4 & 5       \\
+  
+  6 & 7 & 8 & 9 & 10      \\
+  
+  11 & 12 & 13 & 14 & 15  \\
+  
+  16 & 17 & 18 & 19 & 20  \\
+  
+  21 & 22 & 23 & 24 & 25  \\
+  ]
 
 - **Matriks B**:
   Matriks B memiliki elemen-elemen acak yang digunakan sebagai operand kedua dalam perkalian matriks:
   \[
   B =
   \1 & 0 & 4 & 0 & 1 \\
+  
   0 & 3 & 0 & 3 & 4 \\
+  
   0 & 1 & 5 & 0 & 2 \\
+  
   1 & 2 & 0 & 2 & 0 \\
-  1 & 0 & 1 & 7 & 1
-  \\]
+  
+  1 & 0 & 1 & 7 & 1 \\
+  
+  ]
 
 ---
 
@@ -72,12 +81,16 @@ Matriks hasil adalah:
 \[
 \Hasil =
 \
-10 & 17 & 24 & 49 & 20 \\
-25 & 47 & 74 & 109 & 60 \\
-40 & 77 & 124 & 169 & 100 \\
-55 & 107 & 174 & 229 & 140 \\
-70 & 137 & 224 & 289 & 180
-\\]
+10 & 17 & 24 & 49 & 20      \\
+
+25 & 47 & 74 & 109 & 60     \\
+
+40 & 77 & 124 & 169 & 100   \\
+
+55 & 107 & 174 & 229 & 140  \\
+
+70 & 137 & 224 & 289 & 180  \\
+]
 
 ---
 
