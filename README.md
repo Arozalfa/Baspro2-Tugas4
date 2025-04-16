@@ -9,6 +9,7 @@ Kode ini bertujuan menghitung hasil perkalian dua matriks berukuran 5x5:  A  dan
 **1. Matriks Input**
 - **Matriks A**: 
   Sebuah matriks berukuran 5x5 dengan elemen bernilai berturut-turut dari 1 hingga 25, diatur dalam baris dan kolom. Contohnya:
+  
   [
   A =
   1 & 2 & 3 & 4 & 5       \\
@@ -24,6 +25,7 @@ Kode ini bertujuan menghitung hasil perkalian dua matriks berukuran 5x5:  A  dan
 
 - **Matriks B**:
   Matriks B memiliki elemen-elemen acak yang digunakan sebagai operand kedua dalam perkalian matriks:
+  
   \[
   B =
   \1 & 0 & 4 & 0 & 1 \\
@@ -79,7 +81,7 @@ Mari kita jalankan kode ini untuk menghitung matriks hasil.
 Matriks hasil adalah:
 
 \[
-\Hasil =
+Hasil =
 \
 10 & 17 & 24 & 49 & 20      \\
 
